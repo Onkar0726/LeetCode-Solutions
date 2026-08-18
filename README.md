@@ -14,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 <!---LeetCode Topics End-->
