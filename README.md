@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0326-power-of-three](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0412-fizz-buzz](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
 | [2235-add-two-integers](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/2235-add-two-integers/) | Easy |
 ## String
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0326-power-of-three](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/0326-power-of-three/) | Easy |
 <!---LeetCode Topics End-->
