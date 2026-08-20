@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/0412-fizz-buzz/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Onkar0726/LeetCode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
