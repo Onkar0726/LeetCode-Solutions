@@ -3,7 +3,7 @@ class Solution {
         int add = 0;
         int pro = 1;
         int n1=n;
-        while (n > 0) {
+        while (n != 0) {
             int var = n % 10;
             add += var;
             pro *= var;
